@@ -40,6 +40,7 @@
         android:layout_height="77dp"
         android:backgroundTint="#BA2020"
         android:text="СЛОЖИТЬ"
+        android:textColor="#FFFFFF"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
